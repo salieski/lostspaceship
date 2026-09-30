@@ -2,7 +2,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lostspaceship/lostspaceship/main/dark_mode.svg?v=0a36c1820f8c">
-    <img alt="FTN's GitHub profile" src="https://raw.githubusercontent.com/lostspaceship/lostspaceship/main/light_mode.svg?v=0a36c1820f8c" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lostspaceship/lostspaceship/main/dark_mode.svg?v=34b16669a5fa">
+    <img alt="FTN's GitHub profile" src="https://raw.githubusercontent.com/lostspaceship/lostspaceship/main/light_mode.svg?v=34b16669a5fa" width="100%">
   </picture>
 </p>
